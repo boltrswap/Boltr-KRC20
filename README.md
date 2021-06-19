@@ -1,14 +1,14 @@
-![BoltrSDK](https://github.com/boltrswap/Boltr-KRC20/blob/main/krc20.jpg) 
+![BoltrKRC20](https://github.com/boltrswap/Boltr-KRC20/blob/main/krc20.jpg) 
 
 
 
-Boltr SDK : Introduction
+Boltr KRC20 Token : Introduction
 =====================================
 
 **Well created by Boltr Dev. (2021)**
 
 
-BoltrSDK is a core system behind the Boltrswap DEX on KCC
+Boltr is the native token for the Boltrswap Platform. The token is KRC20 based contract in KuCoin Community Chain.
 
 
 ### Boltr Mission
